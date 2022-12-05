@@ -1,4 +1,3 @@
-# используется для сортировки
 from operator import itemgetter
 from math import inf
 
